@@ -3,8 +3,8 @@
 
 ## Features
 - Proxy Usage.
-- Multi Post View Sending.
-- Multi Thread View Sending.
+- Multi Live Chat Message Sending.
+- Multi Thread Live Chat Message Sending.
 
 
 
